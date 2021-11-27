@@ -1,18 +1,18 @@
-repositorio
- - È a pasta do projeto
+# anota√ß√µes
 
-commit
-- È um grupo de alteraÁıes mo codigo
+## repositorio
+ - √© a pasta do projeto
 
-branch
- - s„o ramificaÁıes do projeto, servem para separa grandes modificaÁıes e evitam criar problemas no codigo principal.
+## commit
+- √© um grupo de altera√ß√µes mo codigo
+## branch
+ - s√£o ramifica√ß√µes do projeto, servem para separa grandes modifica√ß√µes e evitam criar problemas no codigo principal.
 
-merge
-- uni„o de duas branches
+## merge
+- uni√£o de duas branches
 
-clone
-- È como uma branch de um repositorio online em um repositorio local, quando se deseja trabalhar em um repositorio hospedado no github, 
-clona-se esse repositorio para o seu computador, trablha se nele e ent„o È pedida a permiss„o para atualizar as alteraÁıes onlines.
-
-pull
-- È a atualizaÁ„o do repositorio local. È feito um merge do repositorio local com o virtual.
+## clone
+- √© como uma branch de um repositorio online em um repositorio local, quando se deseja trabalhar em um repositorio hospedado no github, 
+clona-se esse repositorio para o seu computador, trablha se nele e ent√£o √© pedida a permiss√£o para atualizar as altera√ß√µes onlines.
+## pull
+- √© a atualiza√ß√£o do repositorio local. √© feito um merge do repositorio local com o virtual.
